@@ -1,0 +1,13 @@
+{
+    "question" : “Кто-нибудь {has_anybody_experience_with_message}"
+    "has_anybody_experience_with”: {
+        {
+            "message": "подключения PayPal?"
+        },
+        {
+            "message": "прохождения собеседований в больших конторах типо facebook?"
+        },
+        {
+            "message": “делал вьюпейдреж который листается в 4 стороны?"
+        }
+}
